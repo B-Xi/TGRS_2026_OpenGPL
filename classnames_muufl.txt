@@ -1,0 +1,11 @@
+0 Trees
+1 Mostly grass
+2 Mixed ground surface
+3 Dirt and sand
+4 Road
+5 Water
+6 Shadow of buildings
+7 Buildings
+8 Sidewalk
+9 Yellow curb
+10 Cloth panels

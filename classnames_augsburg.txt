@@ -1,0 +1,7 @@
+0 Forest
+1 Residential
+2 Industrial
+3 Low Plants
+4 Allotment
+5 Commercial
+6 Water
